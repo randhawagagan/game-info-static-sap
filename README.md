@@ -1,0 +1,1 @@
+# game-info-static-sap
